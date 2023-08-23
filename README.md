@@ -1,11 +1,8 @@
 <h2> Hey there! I'm Punyah. </h2>
 
-### ✔️ I'm currently learning
-- Kotlin (android development)
-- Java (desktop apps)
 
 ### 😍 What i like to do:
-- I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
+- I like challenges, learning, logical problems
 
 ### 💡 Goals for 2020:
 - Finish my first app on android and publish it on play store
