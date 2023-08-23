@@ -5,9 +5,9 @@
 - I like challenges, learning, logical problems
 
 ### 💡 Goals for 2020:
-- Finish my first app on android and publish it on play store
-- Learn the basics of JavaScript, TypeScript
-- Become skilled in Java, kotlin
+- Finish my college resume projects
+- Learn the basics of Java
+- Become skilled in Python
 - Grow as a person
   
 
