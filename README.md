@@ -1,7 +1,21 @@
 <h2> Hey there! I'm Punyah. </h2>
 
+### ✔️ I'm currently learning
+- Kotlin (android development)
+- Java (desktop apps)
+
+### 😍 What i like to do:
+- I like challenges, learning, LOGICAL PROBLEMS, helping, sharing and living !!!
+
+### 💡 Goals for 2020:
+- Finish my first app on android and publish it on play store
+- Learn the basics of JavaScript, TypeScript
+- Become skilled in Java, kotlin
+- Grow as a person
+  
 
 
+### GitHub Statistics
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=PunyahB&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="PunyahB's Github Stats">
