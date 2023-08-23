@@ -4,12 +4,20 @@
 ### 😍 What i like to do:
 - I like challenges, learning, logical problems
 
-### 💡 Goals for 2020:
-- Finish my college resume projects
-- Learn the basics of Java
-- Become skilled in Python
-- Grow as a person
+### 💡 Goals for 2023:
   
+```python
+class ReadMe:
+    def __init__(self, username="PunyahB", year=2023):
+        self.username = username
+        self.name = 'Punyah Baghla'
+        self.goals = {
+            '1': 'Finish my college resume projects',
+            '2': 'Become skilled in Python',
+            '3': 'Grow as a person'
+        }
+me = ReadMe(2023)
+```  
 
 
 ### GitHub Statistics
