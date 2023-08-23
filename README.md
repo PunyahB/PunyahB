@@ -41,5 +41,30 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PunyahB&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/punyahB/github-readme-stats)
 
+## Interests
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>DSC</span><br><br><br>
+        <img height="64px" src="https://i.pinimg.com/736x/6b/2c/27/6b2c279eeb7a25918523baaa4202e4d0.jpg">
+      </td>
+      <td width="25%" align="center">
+        <span>AI</span><br><br><br>
+        <img height="64px" src="https://img.freepik.com/premium-vector/ai-technology-digital-artificial-intelligence-future-circuit-electronic-colorful-vector-logo-design_216988-1080.jpg">
+      </td>
+     <td width="25%" align="center">
+        <span>Web Dev</span><br><br><br>
+        <img height="64px" src="https://e1.pxfuel.com/desktop-wallpaper/125/969/desktop-wallpaper-web-development-posted-by-sarah-anderson-full-stack.jpg">
+      </td>
+      <td width="25%" align="center">
+        <span>Cloud</span><br><br><br>
+        <img height="64px" src="https://e0.pxfuel.com/wallpapers/125/919/desktop-wallpaper-why-amplyfi-selected-aws-as-a-strategic-partner-amazon-web-services.jpg">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 ⭐️ From [PunyahB](https://github.com/PunyahB)
 
