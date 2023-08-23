@@ -77,5 +77,21 @@
   </tbody>
 </table>
 
-⭐️ From [PunyahB](https://github.com/PunyahB)
+
+
+
+<h2 align="center">You can reach me at: </h2>
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/punyah-baghla-2b9ab3289/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Punyah's LinkedIn Profile" height="30" width="30">
+  </a>
+
+
+  <a href="https://twitter.com/iamrockstar211">
+    <img src="https://cdn.svgporn.com/logos/twitter.svg" alt="Punyah's Twitter Profile" height="30" width="30">
+  </a>
+  
+</p>
 
