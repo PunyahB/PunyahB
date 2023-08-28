@@ -7,23 +7,12 @@
 </br>  
 
 
-### 😍 What i like to do:
-- I like challenges, learning, logical problems
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-### 💡 Goals for 2023:
-  
-```python
-class ReadMe:
-    def __init__(self, username="PunyahB", year=2023):
-        self.username = username
-        self.name = 'Punyah Baghla'
-        self.goals = {
-            '1': 'Finish my college resume projects',
-            '2': 'Become skilled in Python',
-            '3': 'Grow as a person'
-        }
-me = ReadMe(2023)
-```  
+- 🤔 &nbsp; Interested in Artificial Intelligence
+- 🎓 &nbsp; Studying at Bhavans Rajaji Vidyashram
+- 💼 &nbsp; Open to Internships
+- 🌱 &nbsp; Learning more about Blockchain, Web 3.0 and Full-Stack Development
 
 
 ### GitHub Statistics
@@ -38,6 +27,10 @@ me = ReadMe(2023)
 alt="Github streaks">
 </div>
 
+### 🏆 GitHub Profile Trophies:
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=PunyahB&column=8&theme=discord&no-frame=true&no-bg=true"/>
+</a>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -64,6 +57,21 @@ alt="Github streaks">
 
   
 <h3> </h3>
+
+### 💡 Goals for 2023:
+  
+```python
+class ReadMe:
+    def __init__(self, username="PunyahB", year=2023):
+        self.username = username
+        self.name = 'Punyah Baghla'
+        self.goals = {
+            '1': 'Finish my college resume projects',
+            '2': 'Become skilled in Python',
+            '3': 'Grow as a person'
+        }
+me = ReadMe(2023)
+```  
 
 
 <h3> ✳️  &nbsp;Interests: </h3>
