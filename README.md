@@ -50,36 +50,24 @@ me = ReadMe(2023)
   ![PyCharm](https://img.shields.io/badge/PyCharm-333333?&style=flate&logo=PyCharm&logoColor=55e22d)
   ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-333333?style=flat&logo=intellij-idea&logoColor=1572B6)
 
+
   
 <h3> </h3>
 
 [![Top Langs](https://github-readme-stats-q2ce6g6ox-punyahb.vercel.app/api/top-langs/?username=PunyahB&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/punyahB/github-readme-stats)
 
-## Interests
+<h3> ✳️  &nbsp;Interests: </h3>
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>DSC</span><br><br><br>
-        <img height="64px" src="https://i.pinimg.com/736x/6b/2c/27/6b2c279eeb7a25918523baaa4202e4d0.jpg">
-      </td>
-      <td width="25%" align="center">
-        <span>AI</span><br><br><br>
-        <img height="64px" src="https://img.freepik.com/premium-vector/ai-technology-digital-artificial-intelligence-future-circuit-electronic-colorful-vector-logo-design_216988-1080.jpg">
-      </td>
-     <td width="25%" align="center">
-        <span>Web Dev</span><br><br><br>
-        <img height="64px" src="https://e1.pxfuel.com/desktop-wallpaper/125/969/desktop-wallpaper-web-development-posted-by-sarah-anderson-full-stack.jpg">
-      </td>
-      <td width="25%" align="center">
-        <span>Cloud</span><br><br><br>
-        <img height="64px" src="https://e0.pxfuel.com/wallpapers/125/919/desktop-wallpaper-why-amplyfi-selected-aws-as-a-strategic-partner-amazon-web-services.jpg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+- &nbsp;
+  [![Data Science](https://img.shields.io/badge/Data%20Science-blue?style=flat)](https://en.wikipedia.org/wiki/Data_science)
+  [![Generative AI](https://img.shields.io/badge/Generative%20AI-yellow?style=flat)](https://www.nvidia.com/en-us/glossary/data-science/generative-ai/)
+  [![Web3](https://img.shields.io/badge/Web%203.0-violet?style=flat)](https://hbr.org/2022/05/what-is-web3)
+  [![ML](https://img.shields.io/badge/Machine%20Learning-orange?style=flat)](https://www.ibm.com/topics/machine-learning)
+  
 
+
+  
+<h3> </h3>
 
 
 
