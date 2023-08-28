@@ -1,4 +1,10 @@
-<h2> Hey there! I'm Punyah. </h2>
+## Hey There, I'm Punyah <img src="https://media.tenor.com/vmhOr14C5QwAAAAC/chelsea-fc.gif" width="30px">
+
+<br>
+
+<img align="center" src="https://directory.edugorilla.com/wp-content/uploads/sites/6/2018/03/29f0de47dcfb250ee9cb532b79896d33.jpeg" alt="Punyah's  Profile Banner">
+
+</br>  
 
 
 ### 😍 What i like to do:
@@ -21,11 +27,24 @@ me = ReadMe(2023)
 
 
 ### GitHub Statistics
+
+| <a href="https://github-readme-stats-q2ce6g6ox-punyahb.vercel.app/api?username=PunyahB&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="PunyahB's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunyahB&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
 <br>
 
-<img align="center" src="https://github-readme-stats-q2ce6g6ox-punyahb.vercel.app/api?username=PunyahB&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="PunyahB's Github Stats">
+<img align="center" src="https://github-readme-stats-q2ce6g6ox-punyahb.vercel.app/api?username=PunyahB&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="PunyahB's Github Stats">
 
 </br>
+
+<div align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PunyahB&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"
+alt="Github streaks">
+</div>
+
+![Punyah Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PunyahB&theme=dracula)
+![Punyah Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PunyahB&theme=synthwave)
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -54,7 +73,6 @@ me = ReadMe(2023)
   
 <h3> </h3>
 
-[![Top Langs](https://github-readme-stats-q2ce6g6ox-punyahb.vercel.app/api/top-langs/?username=PunyahB&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/punyahB/github-readme-stats)
 
 <h3> ✳️  &nbsp;Interests: </h3>
 
@@ -69,6 +87,12 @@ me = ReadMe(2023)
   
 <h3> </h3>
 
+<h3> 📈 &nbsp; Profile Views:</h3>
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=PunyahB&label=Profile%20views&color=00ffff&style=flat" alt="PunyahB" /> </p>
+
+<h3>
+
 
 
 <h2 align="center">You can reach me at: </h2>
@@ -81,8 +105,17 @@ me = ReadMe(2023)
 
 
   <a href="https://twitter.com/iamrockstar211">
-    <img src="https://cdn.svgporn.com/logos/twitter.svg" alt="Punyah's Twitter Profile" height="30" width="30">
+    <img src="https://vectorseek.com/wp-content/uploads/2023/07/Twitter-X-Logo-Vector-01-2.jpg" alt="Punyah's Twitter Profile" height="30" width="30">
   </a>
+
+   <a href="https://discord.com/users/852797776320659508">
+    <img src="https://cdn.svgporn.com/logos/discord-icon.svg" alt="Punyah's Discord Profile" height="30" width="30">
+  </a>
+
+  <a href="mailto:punyahbaghla5@gmail.com">
+    <img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Punyah's Gmail Account" height="30" width="30">
+  </a>
+  
   
 </p>
 
