@@ -28,23 +28,15 @@ me = ReadMe(2023)
 
 ### GitHub Statistics
 
-| <a href="https://github-readme-stats-q2ce6g6ox-punyahb.vercel.app/api?username=PunyahB&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="PunyahB's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunyahB&layout=compact&theme=buefy&hide_border=true" /></a> |
+
+| <a href="https://github.com/PunyahB/github-readme-stats"><img align="center" src="https://github-readme-stats-q2ce6g6ox-punyahb.vercel.app/api?username=PunyahB&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="PunyahB's github stats" /></a> | <a href="https://github.com/PunyahB/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunyahB&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-
-<br>
-
-<img align="center" src="https://github-readme-stats-q2ce6g6ox-punyahb.vercel.app/api?username=PunyahB&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="PunyahB's Github Stats">
-
-</br>
 
 <div align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PunyahB&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"
 alt="Github streaks">
 </div>
-
-![Punyah Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PunyahB&theme=dracula)
-![Punyah Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PunyahB&theme=synthwave)
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
