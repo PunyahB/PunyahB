@@ -76,7 +76,7 @@ me = ReadMe(2023)
 
 <h3> ✳️  &nbsp;Interests: </h3>
 
-- &nbsp;
+  - 🎨 &nbsp;
   [![Data Science](https://img.shields.io/badge/Data%20Science-blue?style=flat)](https://en.wikipedia.org/wiki/Data_science)
   [![Generative AI](https://img.shields.io/badge/Generative%20AI-yellow?style=flat)](https://www.nvidia.com/en-us/glossary/data-science/generative-ai/)
   [![Web3](https://img.shields.io/badge/Web%203.0-violet?style=flat)](https://hbr.org/2022/05/what-is-web3)
