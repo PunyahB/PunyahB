@@ -10,7 +10,7 @@
 <h3>  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />  &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Interested in Artificial Intelligence
-- 🎓 &nbsp; Studying at Bhavans Rajaji Vidyashram
+- 🎓 &nbsp; Studying at Bhavans Rajaji Vidyashram, 11th grade
 - 💼 &nbsp; Open to Internships
 - 🌱 &nbsp; Learning more about Blockchain, Web 3.0 and Full-Stack Development
 -  🌍 &nbsp; I can speak English, Hindi, French, Sanskrit and Tamil
@@ -32,24 +32,19 @@ alt="Github streaks">
 
 - <img src="https://img.shields.io/badge/Programming%20Languages :-adff2f?style=flat&logoColor=white">&nbsp;
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-007ACC?style=flat&logo=python&logoColor=FFFFFF"></a>
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![PyCharm](https://img.shields.io/badge/PyCharm-333333?&style=flate&logo=PyCharm&logoColor=55e22d)
-  ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-333333?style=flat&logo=intellij-idea&logoColor=1572B6)
+  
+- <img src="https://img.shields.io/badge/Database%20:-adff2f?style=flat&logoColor=white"> &nbsp;
+  <a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"></a>
+  <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/-MySQL-66cdaa?style=flat&logo=mysql&logoColor=blue"></a>
 
+- <img src="https://img.shields.io/badge/Tools And%20Technologies :-adff2f?style=flat&logoColor=white">  &nbsp; &nbsp;
+  <a href="https://git-scm.com"><img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"></a>
+  <a href="https://github.com"><img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"></a>
+  <a href="https://www.markdownguide.org"><img src="http://img.shields.io/badge/-Markdown-ff0000?style=flat&logo=markdown&logoColor=FFFFFF"></a>
+  
+- <img src="https://img.shields.io/badge/IDEs %20:-adff2f?style=flat&logoColor=white">  &nbsp;
+   <a href="https://code.visualstudio.com"><img src="http://img.shields.io/badge/-Visual%20Studio%20Code-1e90ff?style=flat&logo=visual-studio-code&logoColor=FFFFFF"></a>
+   <a href="https://www.jetbrains.com/pycharm/"><img src="http://img.shields.io/badge/-PyCharm-ff1493?style=flat&logo=PyCharm&logoColor=FFFFFF"></a>
 
   
 <h3> </h3>
@@ -69,15 +64,6 @@ class ReadMe:
 me = ReadMe(2023)
 ```  
 
-
-<h3> ✳️  &nbsp;Interests: </h3>
-
-  - 🎨 &nbsp;
-  [![Data Science](https://img.shields.io/badge/Data%20Science-blue?style=flat)](https://en.wikipedia.org/wiki/Data_science)
-  [![Generative AI](https://img.shields.io/badge/Generative%20AI-yellow?style=flat)](https://www.nvidia.com/en-us/glossary/data-science/generative-ai/)
-  [![Web3](https://img.shields.io/badge/Web%203.0-violet?style=flat)](https://hbr.org/2022/05/what-is-web3)
-  [![ML](https://img.shields.io/badge/Machine%20Learning-orange?style=flat)](https://www.ibm.com/topics/machine-learning)
-  
 
 
   
