@@ -1,4 +1,4 @@
-## Hey There, I'm Punyah <img src="https://media.tenor.com/vmhOr14C5QwAAAAC/chelsea-fc.gif" width="30px">
+## Hey There, I'm Punyah <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLLz_9lKR9XU48czlFsmxQHBf-88dzyTzX1l7e4AjweltV4lTRR9uk6GrnrLYIqpF4KVKBu3G9TGxiaWXTWOKSRMRO4GoBm5QAvS33t5N7cDt4Z_sa8dnkS1fUAm2GVWdWhQ_gLUpY5QQf_AWouUWbIxxUvoA5LV4XTyBQ5cJGjCZB9t8M6cX0rhcSkf0/s600/Chelsea_FC_flag.gif" width="50px">
 
 <br>
 
@@ -7,35 +7,31 @@
 </br>  
 
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3>  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />  &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Interested in Artificial Intelligence
 - 🎓 &nbsp; Studying at Bhavans Rajaji Vidyashram
 - 💼 &nbsp; Open to Internships
 - 🌱 &nbsp; Learning more about Blockchain, Web 3.0 and Full-Stack Development
+-  🌍 &nbsp; I can speak English, Hindi, French, Sanskrit and Tamil
 
 
-### GitHub Statistics
+<h3><img src="https://media3.giphy.com/media/bmQBu3aSF0DxadphkG/200w.gif?cid=6c09b952n0c3fry15dpl0fc8bchfl03r9e98ldreff5chx6x&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50px"/> &nbsp; GitHub Statistics </h3>
 
 
-| <a href="https://github.com/PunyahB/github-readme-stats"><img align="center" src="https://github-readme-stats-q2ce6g6ox-punyahb.vercel.app/api?username=PunyahB&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="PunyahB's github stats" /></a> | <a href="https://github.com/PunyahB/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunyahB&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/PunyahB/github-readme-stats"><img align="center" src="https://github-readme-stats-q2ce6g6ox-punyahb.vercel.app/api?username=PunyahB&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="PunyahB's github stats" /></a> | <a href="https://github.com/PunyahB/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunyahB&layout=compact&theme=omni&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
 <div align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PunyahB&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PunyahB&theme=synthwave&hide_border=true&stroke=0000&background=synthwave"
 alt="Github streaks">
 </div>
 
-### 🏆 GitHub Profile Trophies:
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=PunyahB&column=8&theme=discord&no-frame=true&no-bg=true"/>
-</a>
+<h3>  <img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="70px" />  &nbsp;Tech Stack </h3>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=117fed)
+- <img src="https://img.shields.io/badge/Programming%20Languages :-adff2f?style=flat&logoColor=white">&nbsp;
+  <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-007ACC?style=flat&logo=python&logoColor=FFFFFF"></a>
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -58,7 +54,7 @@ alt="Github streaks">
   
 <h3> </h3>
 
-### 💡 Goals for 2023:
+<h3> <img src="https://media3.giphy.com/media/3oz8xD8KOjTwxGG1q0/200w.gif?cid=6c09b95209eb0qcvv6pjeh4ip4x1bitp2aph52md3ay2iy7t&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50px" /> &nbsp;Goals for the Upcoming Year </h3>
   
 ```python
 class ReadMe:
@@ -87,17 +83,16 @@ me = ReadMe(2023)
   
 <h3> </h3>
 
-<h3> 📈 &nbsp; Profile Views:</h3>
+<h3> <img src="https://www.protocol80.com/hubfs/blog-files/Increasing-Traffic-Counter.gif" width="70px" /> &nbsp; Profile Views:</h3>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=PunyahB&label=Profile%20views&color=00ffff&style=flat" alt="PunyahB" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=PunyahB&label=Profile%20views&color=ff1493&style=for-the-badge" alt="View Count" /> </p>
 
-<h3>
+<h3> </h3>
 
 
 
-<h2 align="center">You can reach me at: </h2>
+<h3> <img src="https://cdn.dribbble.com/users/891352/screenshots/7105199/media/5238cf20f0301e51fea9cad8912b9ea3.gif" width="50px" /> &nbsp;Socials:</h3>
 
-<p align="center">
 
   <a href="https://www.linkedin.com/in/punyah-baghla-2b9ab3289/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Punyah's LinkedIn Profile" height="30" width="30">
@@ -117,5 +112,4 @@ me = ReadMe(2023)
   </a>
   
   
-</p>
 
