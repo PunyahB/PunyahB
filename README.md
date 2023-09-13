@@ -1,4 +1,6 @@
-## Hey There, I'm Punyah <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLLz_9lKR9XU48czlFsmxQHBf-88dzyTzX1l7e4AjweltV4lTRR9uk6GrnrLYIqpF4KVKBu3G9TGxiaWXTWOKSRMRO4GoBm5QAvS33t5N7cDt4Z_sa8dnkS1fUAm2GVWdWhQ_gLUpY5QQf_AWouUWbIxxUvoA5LV4XTyBQ5cJGjCZB9t8M6cX0rhcSkf0/s600/Chelsea_FC_flag.gif" width="50px">
+# About Me <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLLz_9lKR9XU48czlFsmxQHBf-88dzyTzX1l7e4AjweltV4lTRR9uk6GrnrLYIqpF4KVKBu3G9TGxiaWXTWOKSRMRO4GoBm5QAvS33t5N7cDt4Z_sa8dnkS1fUAm2GVWdWhQ_gLUpY5QQf_AWouUWbIxxUvoA5LV4XTyBQ5cJGjCZB9t8M6cX0rhcSkf0/s600/Chelsea_FC_flag.gif" width="50px">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F719DC&multiline=true&lines=Hey+There%2C+I+am+Punyah+;I+live+in+Chennai%2C+India)](https://git.io/typing-svg)
 
 <br>
 
@@ -7,11 +9,10 @@
 </br>  
 
 
-<h3>  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />  &nbsp;About Me </h3>
+<h3>  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />  &nbsp; Education </h3>
 
-- 🤔 &nbsp; Interested in Artificial Intelligence
 - 🎓 &nbsp; Studying at Bhavans Rajaji Vidyashram, 11th grade
-- 💼 &nbsp; Open to Internships
+- 🤔 &nbsp; Interested in Artificial Intelligence
 - 🌱 &nbsp; Learning more about Blockchain, Web 3.0 and Full-Stack Development
 -  🌍 &nbsp; I can speak English, Hindi, French, Sanskrit and Tamil
 
