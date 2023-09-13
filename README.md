@@ -4,7 +4,7 @@
 
 <br>
 
-<img align="center" src="https://directory.edugorilla.com/wp-content/uploads/sites/6/2018/03/29f0de47dcfb250ee9cb532b79896d33.jpeg" alt="Punyah's  Profile Banner">
+<img align="center" src="./github-header-image.png" alt="Punyah's  Profile Banner">
 
 </br>  
 
