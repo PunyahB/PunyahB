@@ -19,12 +19,12 @@
 <h3><img src="https://media3.giphy.com/media/bmQBu3aSF0DxadphkG/200w.gif?cid=6c09b952n0c3fry15dpl0fc8bchfl03r9e98ldreff5chx6x&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50px"/> &nbsp; GitHub Statistics </h3>
 
 
-| <a href="https://github.com/PunyahB/github-readme-stats"><img align="center" src="https://github-readme-stats-q2ce6g6ox-punyahb.vercel.app/api?username=PunyahB&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="PunyahB's github stats" /></a> | <a href="https://github.com/PunyahB/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunyahB&layout=compact&theme=omni&hide_border=true" /></a> |
+| <a href="https://github.com/PunyahB/github-readme-stats"><img align="center" src="https://github-readme-stats-q2ce6g6ox-punyahb.vercel.app/api?username=PunyahB&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="PunyahB's github stats" /></a> | <a href="https://github.com/PunyahB/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunyahB&layout=compact&theme=gotham&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
 <div align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PunyahB&theme=synthwave&hide_border=true&stroke=0000&background=synthwave"
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PunyahB&theme=nord&hide_border=true&stroke=0000&background=synthwave"
 alt="Github streaks">
 </div>
 
@@ -68,8 +68,8 @@ me = ReadMe(2023)
 <a href="https://github.com/PunyahB/Portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PunyahB&repo=Portfolio&theme=highcontrast" />
 </a>
-<a href="https://github.com/PunyahB/astrowind">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PunyahB&repo=astrowind&theme=vision-friendly-dark" />
+<a href="https://github.com/PunyahB/EVWebsite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PunyahB&repo=EVWebsite&theme=vision-friendly-dark" />
 </a>  
 
   
@@ -87,20 +87,20 @@ me = ReadMe(2023)
 
 
   <a href="https://www.linkedin.com/in/punyah-baghla-2b9ab3289/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Punyah's LinkedIn Profile" height="30" width="30">
+    <img src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" alt="Punyah's LinkedIn Profile" height="40" width="40">
   </a>
 
 
   <a href="https://twitter.com/iamrockstar211">
-    <img src="https://vectorseek.com/wp-content/uploads/2023/07/Twitter-X-Logo-Vector-01-2.jpg" alt="Punyah's Twitter Profile" height="30" width="30">
+    <img src="https://media2.giphy.com/media/KDGLRKwIMVXV5XLieP/200w.gif?cid=6c09b9526jb7xzccujs7k5icntvr2dko4nnzefrbuovdgdp8&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="Punyah's Twitter Profile" height=40" width="40">
   </a>
 
    <a href="https://discord.com/users/852797776320659508">
-    <img src="https://cdn.svgporn.com/logos/discord-icon.svg" alt="Punyah's Discord Profile" height="30" width="30">
+    <img src="https://cdn.dribbble.com/users/5242374/screenshots/16641455/gif.gif" alt="Punyah's Discord Profile" height="40" width="40">
   </a>
 
   <a href="mailto:punyahbaghla5@gmail.com">
-    <img src="https://cdn.svgporn.com/logos/google-gmail.svg" alt="Punyah's Gmail Account" height="30" width="30">
+    <img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif" alt="Punyah's Gmail Account" height="40" width="40">
   </a>
   
   
