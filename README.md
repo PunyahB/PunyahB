@@ -11,7 +11,7 @@
 
 <h3>  <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" />  &nbsp; Education </h3>
 
-- 🎓 &nbsp; Studying at Bhavans Rajaji Vidyashram, 11th grade
+- 🎓 &nbsp; Studying at __Bhavans Rajaji Vidyashram__, 11th grade
 - 🤔 &nbsp; Interested in Artificial Intelligence
 - 🌱 &nbsp; Learning more about Blockchain, Web 3.0 and Full-Stack Development
 -  🌍 &nbsp; I can speak English, Hindi, French, Sanskrit and Tamil
