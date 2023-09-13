@@ -29,7 +29,7 @@
 alt="Github streaks">
 </div>
 
-<h3>  <img src="https://media2.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="70px" />  &nbsp;Tech Stack </h3>
+<h3>  <img src="https://images.squarespace-cdn.com/content/v1/5b983c1389c1720c12f4f1ab/1585640916041-HTJUHSFJ4LE9P9WWC791/InnerFit-Icon-Tools-Resized_1.gif" width="70px" />  &nbsp;Tech Stack </h3>
 
 - <img src="https://img.shields.io/badge/Programming%20Languages :-adff2f?style=flat&logoColor=white">&nbsp;
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/-Python-007ACC?style=flat&logo=python&logoColor=FFFFFF"></a>
