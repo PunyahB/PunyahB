@@ -64,7 +64,13 @@ class ReadMe:
 me = ReadMe(2023)
 ```  
 
-
+<h3> <img src="https://cdn.dribbble.com/users/139863/screenshots/2095776/content.gif" width="50px" /> &nbsp; Top Repositories </h3>
+<a href="https://github.com/PunyahB/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PunyahB&repo=Portfolio&theme=highcontrast" />
+</a>
+<a href="https://github.com/PunyahB/astrowind">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PunyahB&repo=astrowind&theme=vision-friendly-dark" />
+</a>  
 
   
 <h3> </h3>
