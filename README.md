@@ -50,7 +50,7 @@ alt="Github streaks">
   
 <h3> </h3>
 
-<h3> <img src="https://media3.giphy.com/media/3oz8xD8KOjTwxGG1q0/200w.gif?cid=6c09b95209eb0qcvv6pjeh4ip4x1bitp2aph52md3ay2iy7t&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50px" /> &nbsp;Goals for the Upcoming Year </h3>
+<h3> <img src="https://media0.giphy.com/media/N0BvVMIUeeKIq0g08j/giphy.gif?cid=6c09b952n1yjphmjknt7szdl2yc7xzclkbtwfbi1psh5ug4p&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="70px" /> &nbsp;Goals for the Upcoming Year </h3>
   
 ```python
 class ReadMe:
