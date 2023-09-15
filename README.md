@@ -23,6 +23,8 @@
 | <a href="https://github.com/PunyahB/github-readme-stats"><img align="center" src="https://github-readme-stats-q2ce6g6ox-punyahb.vercel.app/api?username=PunyahB&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="PunyahB's github stats" /></a> | <a href="https://github.com/PunyahB/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunyahB&layout=compact&theme=gotham&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+![snake gif](https://github.com/PunyahB/PunyahB/blob/output/github-contribution-grid-snake.gif)
+
 
 <div align="left">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=PunyahB&theme=nord&hide_border=true&stroke=0000&background=synthwave"
@@ -111,6 +113,7 @@ me = ReadMe(2023)
   <a href="mailto:punyahbaghla5@gmail.com">
     <img src="https://cdn.dribbble.com/users/2113992/screenshots/14510264/gmail_animation.gif" alt="Punyah's Gmail Account" height="40" width="40">
   </a>
+
   
   
 
