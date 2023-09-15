@@ -88,7 +88,7 @@ me = ReadMe(2023)
 
 <h3> <img src="https://www.protocol80.com/hubfs/blog-files/Increasing-Traffic-Counter.gif" width="70px" /> &nbsp; Profile Views:</h3>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=PunyahB&label=Profile%20views&color=ff1493&style=for-the-badge" alt="View Count" /> </p>
+<img src="https://profile-counter.glitch.me/PunyahB/count.svg" />
 
 <h3> </h3>
 
