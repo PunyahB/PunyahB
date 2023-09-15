@@ -73,6 +73,14 @@ me = ReadMe(2023)
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PunyahB&repo=EVWebsite&theme=vision-friendly-dark" />
 </a>  
 
+<h3> </h3>
+
+<h3> <img src="https://media0.giphy.com/media/ic1jCtqVzH46YWOFJn/giphy.gif" width="70px" /> &nbsp; Blog Page:</h3>
+
+ To view my blogs, visit [this page](https://punyahbaghla5.blogspot.com)
+
+<h3> </h3>
+
   
 <h3> </h3>
 
