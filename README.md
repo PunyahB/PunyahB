@@ -20,7 +20,7 @@
 <h3><img src="https://media3.giphy.com/media/bmQBu3aSF0DxadphkG/200w.gif?cid=6c09b952n0c3fry15dpl0fc8bchfl03r9e98ldreff5chx6x&ep=v1_gifs_search&rid=200w.gif&ct=g" width="50px"/> &nbsp; GitHub Statistics </h3>
 
 
-| <a href="https://github.com/PunyahB/github-readme-stats"><img align="center" src="https://github-readme-stats-q2ce6g6ox-punyahb.vercel.app/api?username=PunyahB&include_all_commits=true&count_private=true&show_icons=true&theme=radical" alt="PunyahB's github stats" /></a> | <a href="https://github.com/PunyahB/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunyahB&layout=compact&theme=gotham&hide_border=true" /></a> |
+| <a href="https://github.com/PunyahB/github-readme-stats"><img align="center" src="https://github-readme-stats-q2ce6g6ox-punyahb.vercel.app/api?username=PunyahB&include_all_commits=true&count_private=true&show_icons=true&&rank_icon=github&theme=react" alt="PunyahB's github stats" /></a> | <a href="https://github.com/PunyahB/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PunyahB&layout=compact&theme=react&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
